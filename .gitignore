@@ -2,7 +2,10 @@
 __pycache__/
 .mypy_cache/
 .ruff_cache/
-.pytest_cache
-.coverage
-.DS_Store
-.git hub
+.pytest_cache/
+.coverage/
+.DS_Store/
+.git hub/
+.env/
+.idea/
+.dmypy.json
